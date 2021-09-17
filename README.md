@@ -1,7 +1,7 @@
 
 # Scrollable_screens
 
-A new  mini Flutter application.
+A new  mini Flutter application using scrolling widget.
 
 ## Getting Started
 
